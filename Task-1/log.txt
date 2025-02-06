@@ -1,0 +1,6 @@
+[
+  "OS Type : Windows_NT",
+  "OS Total-Memory : 17029836800",
+  "OS FreeMemory : 8949235712",
+  "OS CPUS:Model: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz, Speed: 1800 MHz, Cores: 357218\nModel: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz, Speed: 1800 MHz, Cores: 266593\nModel: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz, Speed: 1800 MHz, Cores: 529000\nModel: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz, Speed: 1800 MHz, Cores: 314703\nModel: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz, Speed: 1800 MHz, Cores: 463937\nModel: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz, Speed: 1800 MHz, Cores: 261593\nModel: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz, Speed: 1800 MHz, Cores: 404421\nModel: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz, Speed: 1800 MHz, Cores: 311718"
+]
